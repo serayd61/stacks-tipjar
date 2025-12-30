@@ -31,3 +31,10 @@ Creator monetization platform on Stacks blockchain. Accept tips and donations wi
 
 MIT
 
+
+
+---
+## Tip Jar on Stacks
+- ✅ Accept STX tips
+- ✅ Track contributions
+- ✅ Deployed on mainnet
